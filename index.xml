@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>José Ignacio Flores on José Ignacio Flores - Taller Producto 2021</title>
+    <link>https://joseignacioflores.github.io/</link>
+    <description>Recent content in José Ignacio Flores on José Ignacio Flores - Taller Producto 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://joseignacioflores.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ejemplo Shortcodes</title>
+      <link>https://joseignacioflores.github.io/docs/ejemplo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://joseignacioflores.github.io/docs/ejemplo/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplos Markdown</title>
+      <link>https://joseignacioflores.github.io/docs/markdown/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://joseignacioflores.github.io/docs/markdown/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>TRABAJOS PREVIOS</title>
+      <link>https://joseignacioflores.github.io/docs/post-1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://joseignacioflores.github.io/docs/post-1/</guid>
+      <description>Trabajos más destacados realizados el semestre anterior en Ing en Diseño - UAI 2020</description>
+    </item>
+    
+    <item>
+      <title>SILLA ROJA Y AZUL</title>
+      <link>https://joseignacioflores.github.io/docs/post-2/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://joseignacioflores.github.io/docs/post-2/</guid>
+      <description>Primer Trabjo. Elegir una silla del catálogo, investigar sobre ella, crear bocetos, maquetas y una familia.</description>
+    </item>
+    
+    <item>
+      <title>SILLA SHAKER STHUL</title>
+      <link>https://joseignacioflores.github.io/docs/post-3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://joseignacioflores.github.io/docs/post-3/</guid>
+      <description>Primer Trabajo. Elegir una silla del catálogo, investigar sobre ella, crear bocetos, maquetas y una familia.</description>
+    </item>
+    
+    <item>
+      <title>LECTURA</title>
+      <link>https://joseignacioflores.github.io/docs/post-4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://joseignacioflores.github.io/docs/post-4/</guid>
+      <description>trabajo de lectura</description>
+    </item>
+    
+    <item>
+      <title>PRIME GRILLS</title>
+      <link>https://joseignacioflores.github.io/docs/post-5/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://joseignacioflores.github.io/docs/post-5/</guid>
+      <description>Trabajo en grupo. Crear un concepto de diseño. Crear una familia de inmobiliarios y trabajar acerca de ellos.</description>
+    </item>
+    
+  </channel>
+</rss>
